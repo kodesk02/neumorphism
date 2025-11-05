@@ -5,7 +5,7 @@ import { NavigationMenuDemo } from "./NavigationMenu";
 
 export default function Navbar() {
     return (
-        <div className="text-[#343a40] mb-6 flex justify-between">
+        <div className="text-[#023e8a] mb-6 flex justify-between">
             <div className="flex gap-4">
                 <div
                     className="px-4 py-2 w-12 h-10 items-center"
