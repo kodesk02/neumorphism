@@ -11,7 +11,7 @@ export default function Navbar() {
                     className="px-4 py-2 w-12 h-10 items-center"
                     style={{
                         borderRadius: '10px',
-                        background: 'linear-gradient(145deg, #f0f0f0, #cacaca);',
+                        background: 'linear-gradient(145deg, #f0f0f0, #cacaca)',
                         boxShadow: " 5px 5px 10px #636363,  -5px -5px 10px #ffffff",
                     }}
                 >
